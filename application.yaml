@@ -14,3 +14,5 @@ springdoc:
 app:
   service:
     authentication-service-url: http://skyhawks-authentication-service/v0.1
+    notification-service-url: http://skyhawks-notification-service/v0.1
+    school-service-url: http://skyhawks-school-service/v0.1
